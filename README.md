@@ -51,13 +51,7 @@ Contribuir para a criação de soluções que façam a diferença.
 
 #### Estou aberto a novas conexões, colaborações e parcerias em projetos. Vamos construir algo juntos?
 
-<img 
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=mateusgdmelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusgdmelo&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <img 
   align="left"
