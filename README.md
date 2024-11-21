@@ -49,4 +49,4 @@ Preparando-me para iniciar meus estudos em JavaScript, ampliando minha capacidad
 Evoluir constantemente no desenvolvimento web e buscar oportunidades para colaborar em projetos desafiadores.  
 Contribuir para a criação de soluções que façam a diferença.  
 
-##### Estou aberto a novas conexões, colaborações e parcerias em projetos. Vamos construir algo juntos?
+#### Estou aberto a novas conexões, colaborações e parcerias em projetos. Vamos construir algo juntos?
