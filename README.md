@@ -41,11 +41,11 @@ Meu nome é Mateus Melo, tenho 27 anos, natural do Rio de Janeiro. Pai, marido e
 HTML5 e CSS3: Domínio das tecnologias básicas da web, criando layouts responsivos e bem estruturados.  
 Git e GitHub: Versionamento de código eficiente e colaboração em projetos.
 
-### No momento:
+### No momento: 📖
 Estou aprofundando meus conhecimentos com um curso de Fundamentos da Programação, solidificando minha base lógica.  
 Preparando-me para iniciar meus estudos em JavaScript, ampliando minha capacidade de desenvolver páginas web dinâmicas e interativas.  
 
-### Meu objetivo:  
+### Meu objetivo: 🎯 
 Evoluir constantemente no desenvolvimento web e buscar oportunidades para colaborar em projetos desafiadores.  
 Contribuir para a criação de soluções que façam a diferença.  
 
