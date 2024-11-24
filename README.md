@@ -9,10 +9,9 @@ Meu nome é Mateus Melo, tenho 27 anos, natural do Rio de Janeiro. Pai, marido e
       src="https://custom-icon-badges.demolab.com/github/followers/mateusgdmelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=follow&logoColor=white" 
       alt="Siga-me"
   >
-</a>
+</a>   
 
 ---
-
 <img 
   align="left"
   alt="HTML"
@@ -59,7 +58,7 @@ Contribuir para a criação de soluções que façam a diferença.
   src="https://github-readme-stats.vercel.app/api?username=mateusgdmelo&show_icons=true&theme=tokyonight&locale=pt-br"
 />
 <img 
-  align="left"
+  align="right"
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
