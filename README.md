@@ -1,7 +1,7 @@
 # Mateus Melo ♟
 ## **Desenvolvedor em formação**⏳💻
 
-Meu nome é Mateus Melo, tenho 27 anos, natural do Rio de Janeiro. Pai, marido e entusiasta da programação. Estudo desenvolvimento web e programação de maneira autodidata, busco um constante aprendizado para expandir minhas habilidades e construir uma carreira sólida nessa área. O que me interessa em programação é a oportunidade de dar soluções rápidas, eficientes e inteligentes para questões que se tornaram um problema seja por conta da sua demora na execução, falta de soluções práticas e desburocratizadas ou, até mesmo, resoluções ultrapassadas e antiquadas. Isso é a tecnologia a serviço da humanidade, é isso me entusiasma.  
+Meu nome é Mateus Melo, tenho 27 anos, natural do Rio de Janeiro. Pai, marido e entusiasta da programação. Estudo desenvolvimento web e programação de maneira autodidata, busco um constante aprendizado para expandir minhas habilidades e construir uma carreira sólida nessa área. O que me interessa em programação é a oportunidade de dar soluções rápidas, eficientes e inteligentes para questões que se tornaram um problema seja por conta da sua demora na execução, falta de soluções práticas e desburocratizadas ou, até mesmo, resoluções ultrapassadas e antiquadas. Isso é a tecnologia a serviço da humanidade, e isso me entusiasma.  
 
 <a href="https://github.com/mateusgdmelo?tab=followers">
   <img 
